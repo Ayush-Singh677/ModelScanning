@@ -19,10 +19,10 @@ pip install -r requirements.txt
 
 ## Project Structure
 
-- `serialisation/` - Tools for detecting malicious model serialization
+- `serialisation/` - For detecting malicious model serialization
     - `scanner.py` - Model file scanner
     - `inject.py` - Pickle injection utilities
-    - `helper.ipynb` - Helper notebook for model generation
+    - `helper.ipynb` - Helper notebook for model downloading and injection
 
 - `mia/` - Membership Inference Attack implementation
     - `cifar10.py` - MIA example on CIFAR10
