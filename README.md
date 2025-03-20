@@ -1,4 +1,4 @@
-# Model Scanning and Security Project
+# Model Scanning
 
 This project contains tools for model security analysis, including serialization attack detection, membership inference attacks, and adversarial example generation.
 
