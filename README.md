@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ### Serialization Attack Detection
 You can use the helper.ipynb file to download model and inject a malicious code.
 ```
-python scanner.py /path/to/model.pt
+python serialisation/scanner.py /path/to/model.pt
 ```
 
 ### Membership Inference Attack
