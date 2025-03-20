@@ -54,7 +54,7 @@ python mia/cifar10.py --target_epochs 12 --attack_epochs 6 --num_shadows 3
 
 ```
 cd adversarial
-python adversarial/adv_pgd.py
+python adv_pgd.py
 ```
 
 ## Requirements
